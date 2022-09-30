@@ -1,0 +1,22 @@
+{
+  "name": "scheduler",
+  "version": "2.0.0",
+  "description": "bubucuo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubucuo/react-nut.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "bubucuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bubucuo/react-nut/issues"
+  },
+  "homepage": "https://github.com/bubucuo/react-nut#readme"
+}
